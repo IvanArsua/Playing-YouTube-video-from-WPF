@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\bin\Debug\IvanArsua.PlayingYoutubeVideofromWPF.exe.config
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\bin\Debug\IvanArsua.PlayingYoutubeVideofromWPF.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\bin\Debug\IvanArsua.PlayingYoutubeVideofromWPF.pdb
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\IvanArsua.PlayingYoutubeVideofromWPF.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\IvanArsua.PlayingYoutubeVideofromWPF_MarkupCompile.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\IvanArsua.PlayingYoutubeVideofromWPF_MarkupCompile.lref
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\IvanArsua.PlayingYoutubeVideofromWPF.g.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\IvanArsua.PlayingYoutubeVideofromWPF.Properties.Resources.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\IvanArsua.PlayingYoutubeVideofromWPF.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\IvanArsua.PlayingYoutubeVideofromWPF.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\IvanArsua.PlayingYoutubeVideofromWPF.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Playing Youtube Video from WPF\IvanArsua.PlayingYoutubeVideofromWPF\IvanArsua.PlayingYoutubeVideofromWPF\obj\Debug\IvanArsua.PlayingYoutubeVideofromWPF.pdb

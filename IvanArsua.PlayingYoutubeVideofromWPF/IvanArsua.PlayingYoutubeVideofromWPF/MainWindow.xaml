@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IvanArsua.PlayingYoutubeVideofromWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="MainWindow" Height="589.5" Width="800">
+    <Grid Margin="0,0,0,6">
+        <TextBox x:Name="txtVideoUrl" HorizontalAlignment="Left" Height="36" Margin="28,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="738"/>
+        <WebBrowser x:Name="Browser" HorizontalAlignment="Left" Height="404" Margin="28,80,0,0" VerticalAlignment="Top" Width="738"/>
+        <Button x:Name="btnGo" Content="Go" HorizontalAlignment="Left" Height="31" Margin="598,504,0,0" VerticalAlignment="Top" Width="168" Click="btnGo_Click"/>
     </Grid>
 </Window>
